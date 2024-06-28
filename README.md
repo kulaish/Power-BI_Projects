@@ -19,6 +19,9 @@ Acknowledgements
 dataset was used for this project, providing valuable Sales and Promotions Data Special thanks to the contributors and developers of Excel,Power bi,Sql and related tools for enabling powerful data analysis and reporting capabilities.
 
 Tools Used:-
-Excel Power Bi Sql
+Ms Excel: For initial data preparation and analysis.
+MySQL: For database management and data extraction.
+Power BI: For creating dashboards and data visualization.
+DAX Studio: For advanced DAX queries and performance tuning.Excel Power Bi Sql
 
 Linkedln post :-
