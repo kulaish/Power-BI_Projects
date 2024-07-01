@@ -5,7 +5,7 @@ Dashboard link-
 
 Project Objectives:
 
-PROBLEM STATEMENT
+PROBLEM STATEMENT:
 AtliQ Mart is a retail giant with over 50 Supermarkets in southern region of India.
 All their 50 stores ran a massive Promotions during Diwali 2023 and Sankranti 2024 on their AtliQ branded Products.
 Now the Sales Director Bruce Hariyali wants to understand which promotions did well and which did not.
