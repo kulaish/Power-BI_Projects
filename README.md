@@ -1,7 +1,7 @@
 # Power BI_Projects
 AtliQ MartAnalysis of Sales and Promotions
 
-Dashboard link-
+Dashboard link-"F:\Power BI\Projects (powerbi)\Atliq\AtliQ report.pbix"
 
 Project Objectives:
 
