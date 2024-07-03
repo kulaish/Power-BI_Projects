@@ -23,6 +23,6 @@ Tools Used:-
 Ms Excel: For initial data preparation and analysis.
 MySQL: For database management and data extraction.
 Power BI: For creating dashboards and data visualization.
-DAX Studio: For advanced DAX queries and performance tuning.Excel Power Bi Sql
+DAX Studio: For advanced DAX queries and performance tuning.
 
-Linkedln post :-
+Linkedln post :-https://www.linkedin.com/feed/update/urn:li:activity:7214160310100799488/
